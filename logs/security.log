@@ -1,0 +1,44 @@
+info: 🚀 Secure app running at http://localhost:3000 {"timestamp":"2025-06-19T11:22:02.536Z"}
+info: ✅ Connected to MongoDB {"timestamp":"2025-06-19T11:22:02.557Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T11:22:08.890Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T11:22:10.271Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T11:22:20.358Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T11:22:21.028Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T11:22:21.727Z"}
+info: 📄 Registration page accessed {"timestamp":"2025-06-19T11:22:45.306Z"}
+warn: ⚠️ Registration failed for user "Abubakar": Weak password {"timestamp":"2025-06-19T11:22:48.671Z"}
+info: 📄 Registration page accessed {"timestamp":"2025-06-19T11:22:50.344Z"}
+info: 📄 Registration page accessed {"timestamp":"2025-06-19T11:22:51.303Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T11:22:54.356Z"}
+info: ✅ Login successful for user: Abubakar {"timestamp":"2025-06-19T11:22:58.955Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T11:23:01.445Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T11:23:04.191Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T11:23:06.381Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T11:23:40.626Z"}
+info: 🚀 Secure app running at http://localhost:3000 {"timestamp":"2025-06-19T11:24:35.934Z"}
+info: ✅ Connected to MongoDB {"timestamp":"2025-06-19T11:24:35.961Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T11:25:57.576Z"}
+info: 📄 Registration page accessed {"timestamp":"2025-06-19T11:26:06.353Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T11:26:06.981Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T11:26:08.017Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T11:26:08.907Z"}
+info: 🔒 HTTPS server running at https://localhost:3000 {"timestamp":"2025-06-19T11:49:18.470Z"}
+info: ✅ Connected to MongoDB {"timestamp":"2025-06-19T11:49:18.508Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T11:49:39.150Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T13:09:32.877Z"}
+info: 🔒 HTTPS server running at https://localhost:3000 {"timestamp":"2025-06-19T13:15:02.025Z"}
+info: ✅ Connected to MongoDB {"timestamp":"2025-06-19T13:15:02.048Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T13:15:15.453Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T13:15:16.999Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T13:15:44.254Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T13:15:44.420Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T13:15:44.441Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T13:17:19.632Z"}
+warn: ❌ Login failed for user: Abubakar {"timestamp":"2025-06-19T13:17:24.091Z"}
+info: ✅ Login successful for user: Abubakar {"timestamp":"2025-06-19T13:17:32.610Z"}
+info: 🔒 HTTPS server running at https://localhost:3000 {"timestamp":"2025-06-19T13:18:38.338Z"}
+info: ✅ Connected to MongoDB {"timestamp":"2025-06-19T13:18:38.363Z"}
+info: ✅ Login successful for user: Abubakar {"timestamp":"2025-06-19T13:18:43.419Z"}
+info: 📄 Login page accessed {"timestamp":"2025-06-19T13:18:52.090Z"}
+info: 📄 Security checklist page accessed {"timestamp":"2025-06-19T13:19:05.655Z"}
+info: 📄 Home page accessed {"timestamp":"2025-06-19T13:19:36.989Z"}

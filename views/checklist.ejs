@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Security Checklist</title>
+  <link rel="stylesheet" href="/style.css">
+  <style>
+    body {
+      background-color: #f1f3f6;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    ul.checklist {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul.checklist li {
+      font-size: 18px;
+      margin: 15px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    ul.checklist li::before {
+      content: "✅";
+      margin-right: 10px;
+      color: green;
+      font-size: 20px;
+    }
+
+    ul.checklist li.warning::before {
+      content: "🛡️";
+      color: red;
+    }
+
+    .header-icon {
+      font-size: 28px;
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    h2 span {
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <%- include('partials/header') %>
+
+  <div class="container">
+    <h2><span class="header-icon">🔒</span><span>Security Checklist</span></h2>
+    <ul class="checklist">
+      <li>Inputs are sanitized and validated</li>
+      <li>Passwords are hashed using bcrypt</li>
+      <li>Login uses secure logic and bcrypt.compare</li>
+      <li>No XSS or direct injection via user input</li>
+      <li>Winston logging is enabled</li>
+      <li>Directory structure organized and safe</li>
+      <li>Nmap scan tested and documented</li>
+      <li>Static files properly served</li>
+      <li class="warning">HTTPS recommended for deployment</li>
+    </ul>
+  </div>
+</body>
+</html>
